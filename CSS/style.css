@@ -1,0 +1,98 @@
+
+*{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+
+
+
+
+/* Home */
+
+
+#Home{
+    background-image: url(../img/1111.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.layar{
+    background-color: rgba(214, 46, 51, 0.6);
+    left: 0px;
+}
+
+.headline{
+    font-size: 4.5vw;
+}
+
+#navBar{
+    width: 0px;
+    overflow: hidden;
+}
+
+#OpenNav{
+    left: 0px;
+    cursor:pointer;
+    font-size:30px;
+    display: block;
+}
+
+.close{
+    cursor: pointer;
+}
+
+
+
+
+
+
+/* singers */
+
+
+#singers h3{
+    cursor: pointer;
+}
+
+.background_items{
+    background-color: #d62e33;
+    opacity: 0.6;
+}
+
+.background_lorem{
+    background-color: #cccccc;
+    display: none;
+}
+
+
+
+
+
+
+/* countsec */
+
+#countsec{
+    background-image: url(../img/invitation-2508607__340.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 50vh;
+}
+
+.layar_countsec{
+    background-color: rgba(214, 46, 51, 0.6);
+}
+
+
+
+
+
+
+/* JOIN-US */
+
+.icons a{
+    transition: .3s;
+}
+
+.icons a:hover{
+    background-color: #d62e33;
+}
